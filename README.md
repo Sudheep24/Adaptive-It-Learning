@@ -55,6 +55,3 @@ and making sure they gain the skills they need
 
 <br/>
 
-
-<h1>Project Images</h1>
-
